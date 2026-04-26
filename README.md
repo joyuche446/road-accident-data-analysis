@@ -11,7 +11,7 @@ Road traffic accidents remain a major public safety concern, leading to signific
 
 The objective is to:
 
-Identify the primary causes of high casualty rates
-Understand how factors like road type, lighting, and surface conditions influence accidents
-Detect temporal trends (monthly and yearly)
-Provide insights to support targeted road safety improvements
+* Identify the primary causes of high casualty rates
+* Understand how factors like road type, lighting, and surface conditions influence accidents
+* Detect temporal trends (monthly and yearly)
+* Provide insights to support targeted road safety improvements
