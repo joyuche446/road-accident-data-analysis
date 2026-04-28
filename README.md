@@ -16,6 +16,6 @@ The objective is to:
 * Detect temporal trends (monthly and yearly)
 * Provide insights to support targeted road safety improvements
 ## Dataset Overview:
-- Number of records:307,973 rows
+- Number of records: 307,973 rows
 - Number of fields: 24 columns
 - Each row represents: A single road accident case
