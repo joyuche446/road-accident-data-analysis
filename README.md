@@ -35,4 +35,5 @@ The objective is to:
 - % Casulaties by Car : **79.8%**
 ## Dashboard Preview:
 ![Road Accident Dashboard](images/dashboard.png)
+An interactive dashboard visualizing road accident trends and casualty distribution.
 
