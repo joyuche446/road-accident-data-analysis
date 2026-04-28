@@ -36,4 +36,12 @@ The objective is to:
 ## Dashboard Preview:
 ![Road Accident Dashboard](images/dashboard.png)
 An interactive dashboard visualizing road accident trends and casualty distribution.
+## Skills:
+- Data cleaning and standardization
+- Data transformation (feature engineering in Excel)
+- Exploratory data analysis (Pivot Tables)
+- Data visualization and dashboard creation
+- Excel (advanced functions, filters & slicers)
+## Results & Recommendations:
+## Next Steps:
 
