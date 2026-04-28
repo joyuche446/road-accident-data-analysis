@@ -19,3 +19,12 @@ The objective is to:
 - Number of records: 307,973 rows
 - Number of fields: 24 columns
 - Each row represents: A single road accident case
+## Methodology:
+
+**Data Cleaning:** Removed duplicates, corrected inconsistencies, and standardized categorical values.  
+
+**Data Preparation:** Created helper columns and grouped categories to enhance analysis.  
+
+**Data Analysis:** Used Pivot Tables to analyze casualty patterns across key variables and time trends.  
+
+**Data Visualization:** Built an interactive Excel dashboard with charts and slicers for dynamic insights.  
