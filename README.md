@@ -56,5 +56,5 @@ An interactive dashboard visualizing road accident trends and casualty distribut
 - Focus awareness campaigns during daylight traffic periods.
 - Investigate why accidents are high on dry road conditions.
 - Continue monitoring yearly trends for policy evaluation.
-## Next Steps:
+
 
