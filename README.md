@@ -34,5 +34,5 @@ The objective is to:
 - Fatality Rate: **1.7%**  
 - % Casulaties by Car : **79.8%**
 ## Dashboard Preview:
-![Road Accident Dashboard]([images/dashboard.png)](https://github.com/joyuche446/road-accident-data-analysis/tree/main/image)
+![Road Accident Dashboard](images/dashboard.png)
 
