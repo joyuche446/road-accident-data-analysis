@@ -27,4 +27,9 @@ The objective is to:
 
 **Data Analysis:** Used Pivot Tables to analyze casualty patterns across key variables and time trends.  
 
-**Data Visualization:** Built an interactive Excel dashboard with charts and slicers for dynamic insights.  
+**Data Visualization:** Built an interactive Excel dashboard with charts and slicers for dynamic insights. 
+## Key Metrics:
+- Total Casualties: 417K  
+- Fatal Casualties: 7.1K  
+- Fatality Rate: 1.7%  
+- % Casulaties by Car : 79.8%
