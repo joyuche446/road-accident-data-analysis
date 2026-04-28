@@ -49,6 +49,7 @@ An interactive dashboard visualizing road accident trends and casualty distribut
 - Most accidents occurred on dry roads (279K cases).
 - Daylight conditions recorded the highest casualties.
 - Casualties were higher in 2021 than 2022, with similar monthly patterns.
+
 **Recommendations**
 - Target safety measures for car-related accidents.
 - Improve safety on single carriageway roads.
