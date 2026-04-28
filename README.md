@@ -43,5 +43,17 @@ An interactive dashboard visualizing road accident trends and casualty distribut
 - Data visualization and dashboard creation
 - Excel (advanced functions, filters & slicers)
 ## Results & Recommendations:
+- Total casualties were 417K, with fatal cases at 7.1K (1.7%).
+- Cars accounted for 79.8% of all casualties.
+- Single carriageway roads had the highest casualties.
+- Most accidents occurred on dry roads (279K cases).
+- Daylight conditions recorded the highest casualties.
+- Casualties were higher in 2021 than 2022, with similar monthly patterns.
+**Recommendations**
+- Target safety measures for car-related accidents.
+- Improve safety on single carriageway roads.
+- Focus awareness campaigns during daylight traffic periods.
+- Investigate why accidents are high on dry road conditions.
+- Continue monitoring yearly trends for policy evaluation.
 ## Next Steps:
 
