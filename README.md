@@ -16,8 +16,8 @@ The objective is to:
 * Detect temporal trends (monthly and yearly)
 * Provide insights to support targeted road safety improvements
 ## Dataset Overview:
-- Number of records: 307,973 rows
-- Number of fields: 24 columns
+- Number of records: **307,973** rows
+- Number of fields: **24** columns
 - Each row represents: A single road accident case
 ## Methodology:
 
@@ -29,7 +29,9 @@ The objective is to:
 
 **Data Visualization:** Built an interactive Excel dashboard with charts and slicers for dynamic insights. 
 ## Key Metrics:
-- Total Casualties: 417K  
-- Fatal Casualties: 7.1K  
-- Fatality Rate: 1.7%  
-- % Casulaties by Car : 79.8%
+- Total Casualties: **417K**  
+- Fatal Casualties: **7.1K**  
+- Fatality Rate: **1.7%**  
+- % Casulaties by Car : **79.8%**
+## Dashboard Preview:
+
